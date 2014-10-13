@@ -23,3 +23,5 @@ dirPaths = NSSearchPathForDirectoriesInDomains(NSDocumentDirectory, NSUserDomain
 ### how to view sqlite visually on mac?
 [try this](https://itunes.apple.com/us/app/sqlite-professional-read-only/id635299994?mt=12)
 
+### how to use instruments?
+[reference](http://www.raywenderlich.com/23037/how-to-use-instruments-in-xcode)
